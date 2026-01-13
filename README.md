@@ -40,7 +40,7 @@ Run: `./InvertedSearch file1.txt file2.txt ...`
 * Console-based interface
 
 👨‍💻 **Author**
-Shubham Shinde
+Amulya M
 
 📜 **License**
 Open-source for educational use
